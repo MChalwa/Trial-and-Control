@@ -13,7 +13,7 @@ Compared total sales revenue, customer count, and transaction frequency between 
 - Customer Behavior Insights
 Identified whether the sales increase was due to more purchasing customers or higher purchase frequency per customer.The analysis of customer numbers during the trial period shows that the number of customers at the trial store fell within the 95% confidence interval of the control store's scaled customer numbers. This suggests that the observed sales uplift wasn't primarily driven by an increase in customer traffic but likely by other factors like increased spending per customer, promotions, or product placements.
 
-- Conclusion
+## Conclusion
 The trial period resulted in a statistically significant increase in sales at the trial store compared to the control store. However, this increase was not accompanied by a corresponding increase in the number of customers. Further investigation is needed to understand the factors driving the sales uplift, such as changes in average transaction value, product mix, or promotional activities. The observed change in customer numbers is not statistically significant.
 
 ## Technologies Used
